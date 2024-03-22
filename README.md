@@ -7,10 +7,6 @@
 <<<<<<< HEAD
 - **Địa Chỉ:** 20DTHA5.
 - **Địa Chỉ:** 32/7 Đường 275, Hiệp Phú, Quận 9, TPHCM.
-=======
-- **Địa Chỉ:** 20DTHA5
-- **Địa Chỉ:** 32/7 Đường 275, Hiệp Phú, Quận 9, TPHCM
->>>>>>> 244a49970625cf617321725af4715ad0d677c426
 
 
 ### Giới Thiệu
