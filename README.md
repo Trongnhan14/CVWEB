@@ -25,7 +25,6 @@ Xin chào! Tôi là Cao Trọng Nhân, một sinh viên ngành Công nghệ thô
 #### Project 1: Hệ thống quản lý thư viện
 - Mô tả: Phát triển một ứng dụng quản lý thư viện với giao diện đẹp và tính năng tìm kiếm nâng cao.
 - Ngôn ngữ: Java, HTML, CSS
-- Link: [Repository](link_to_repository)
 
 #### Project 2: Website bán hàng
 - Mô tả: Xây dựng một trang web thương mại điện tử đơn giản với tính năng đăng nhập và thanh toán.
@@ -34,6 +33,5 @@ Xin chào! Tôi là Cao Trọng Nhân, một sinh viên ngành Công nghệ thô
 
 ### Liên Hệ
 
-- Email: your_email@example.com
-- LinkedIn: [Cao Trọng Nhân](link_to_linkedin_profile)
-- GitHub: [Trongnhan14](link_to_github_profile)
+- Email: caotrnhan14@gmail.com
+- GitHub: [Trongnhan14](https://github.com/Trongnhan14)https://github.com/Trongnhan14)
