@@ -5,7 +5,7 @@
 
 - **Ngày Sinh:** 14/07/2002
 - **Địa Chỉ:** 20DTHA5
-- **Địa Chỉ:** 32/7 Đường 275, Hiệp Phú, Quận 9, TPHCM
+- **Địa Chỉ:** 32/7 Đường 275, Hiệp Phú, Quận 9, TPHCM.
 
 
 ### Giới Thiệu
