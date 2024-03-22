@@ -1,9 +1,9 @@
 # CV CÁ NHÂN
 
-- **Tên:** CAO TRỌNG NHÂN
+##CAO TRỌNG NHÂN
 - **Ngày Sinh:** 14/07/2002
 - **Địa Chỉ:** 32/7 Đường 275, Hiệp Phú, Quận 9, TPHCM
-- **Email:** caotrnhan14@gmail.com
+
 
 ![Ảnh cá nhân](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-1/399944901_1804198416691830_7967748167005121119_n.jpg?stp=dst-jpg_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2S75BRzmzTf1ZIux7pSok0O_Y_x1gzDDQ79j_HWDMMGbxhUKlUVm-Y1zUZEIuc-ECZzoNiBwbonGkqpiCV6E1&_nc_ohc=C0BEevufIJUAX8aH7kl&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfC99G-b9gnckxaTva-WVSXU61YUz0cdlAzdQNBdFstBWA&oe=66020C65)
 
@@ -45,4 +45,5 @@ Xin chào! Tôi là Cao Trọng Nhân, một sinh viên ngành Công nghệ thô
 - Ngôn ngữ: JavaScript, Node.js, Express, MongoDB
 
 ### Liên Hệ
+- Email: caotrnhan14@gmail.com
 - GitHub: [Trongnhan14](https://github.com/Trongnhan14)https://github.com/Trongnhan14)
